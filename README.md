@@ -1,4 +1,4 @@
-
+[![Build Status](https://sachinksingh.visualstudio.com/PersonalProfile/_apis/build/status/sachink-singh.pipelines-java?branchName=master)](https://sachinksingh.visualstudio.com/PersonalProfile/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
